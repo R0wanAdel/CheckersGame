@@ -46,12 +46,4 @@ Example: Move from A6 to B5
 - Local web server (XAMPP, WAMP, or PHP CLI)
 
 - Browser to run the interface
-## 🧩 Possible Improvements
 
-- Add automatic capture detection
-
-- Promote to “King” pieces
-
-- Add AI for single-player mode
-
-- Use sessions or a database for multi-user play
